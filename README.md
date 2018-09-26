@@ -10,3 +10,4 @@
 - [Awesome List for OpenGL](https://github.com/eug/awesome-opengl)
 - [Getting Started: Unity and GVR](https://developers.google.com/vr/develop/unity/get-started-android)
 - [Unity Downloads - get 2018.2.10](https://unity3d.com/get-unity/download/archive)
+- [GVR SDK](https://github.com/googlevr/gvr-unity-sdk/releases/tag/v1.170.0)
