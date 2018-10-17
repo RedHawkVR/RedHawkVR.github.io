@@ -1,6 +1,5 @@
 # SEMO-VR.github.io
-### A SEMO student group studying OpenGL and VR
-
+> A SEMO student group studying OpenGL and VR
 
 ## Links
 
