@@ -1,7 +1,7 @@
-# SEMO-VR.github.io
+# RedHawkVR
 > A SEMO student group studying OpenGL and VR
 
-## Links
+### Links
 
 - [Learn OpenGL Online](https://learnopengl.com/Getting-started/OpenGL)
 - [Redbook Examples - current](https://github.com/openglredbook/examples)
