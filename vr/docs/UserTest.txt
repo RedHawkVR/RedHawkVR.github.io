@@ -1,0 +1,15 @@
+User Testing:
+
+Can you see the environment?
+
+Do you feel any motion sickness?
+
+How did the controls feel?
+
+Did you find any bugs? If so, what were they?
+
+Afterwards:
+
+What did you think about the experience?
+
+Any suggestions?
