@@ -6,13 +6,13 @@ For these projects we are developing with the Steam VR SDK and the Neurosky Mind
 To obtain the Steam VR SDK follow [this link](https://assetstore.unity.com/packages/tools/integration/steamvr-plugin-32647)
 You will need to import it directly into Unity.
 
-### Project 1: Zombie Defender: SEMO Edition
+### Project 1: Zombie Defender
 
 #### Purpose:
 This project focuses on learning to create a VR environment and perform essential VR functions.
 
 #### Summary:
-A zombie slaying game that takes place at SEMO. 360 Photos will be used to capture the initial background.
+A zombie slaying game that takes place in a VR arena.
 
 ### Project 2: Mystic Arts 101
 
